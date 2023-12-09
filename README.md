@@ -1,3 +1,3 @@
 # fuck_site
 adguardhome rules
-屏蔽贞洁婊子的域名
+屏蔽中国垃圾的域名，个人使用
